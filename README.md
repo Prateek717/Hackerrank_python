@@ -1,2 +1,2 @@
 # Hackerrank_python
-Questions and solution of Hackerrank python problems in python3
+Question and Solution of Hackerrank problems(python) in python3
